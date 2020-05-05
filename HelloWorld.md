@@ -1,12 +1,6 @@
 ---
-title: "HelloWorld.md"
-author: "AN"
-date: "05 05 2020"
-output: word_document
+output:
+  word_document: default
+  html_document: default
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## This is a markdown file
