@@ -20,3 +20,8 @@ x=1:3
 y=10:12
 cbind(x,y)
 rbind(x,y)
+x=factor(c('yes','yes','no','yes','no'))
+x
+table(x)
+x
+unclass(x)
