@@ -35,3 +35,8 @@ b=data.frame(foo=1:4,bar=c(T,T,F,T))
 b
 nrow(b)
 ncol(b)
+c=data.frame(foo=1:4,bar=c(T,T,F,T))
+c
+nrow(c)
+ncol(b)
+
