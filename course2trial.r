@@ -46,4 +46,5 @@ names<-c("foo","bar","norf")
 names(x)<-c("foo","bar","norf")
 names(x)
 x
+x
 
