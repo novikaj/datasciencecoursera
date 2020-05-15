@@ -29,7 +29,6 @@ x=c(1,2,NA,10,3)
 is.na(x)
 is.nan(x)
 x=c(1,2,NaN,NA,4)
-<<<<<<< HEAD
 is.na(x)
 is.nan(x)
 b=data.frame(foo=1:4,bar=c(T,T,F,T))
@@ -48,7 +47,3 @@ names(x)<-c("foo","bar","norf")
 names(x)
 x
 x
-
-=======
-is.nan(x)
->>>>>>> db956f94c0ce3b021bbb183256b18d4a7d422849
