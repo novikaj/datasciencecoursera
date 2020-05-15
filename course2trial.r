@@ -46,4 +46,10 @@ names<-c("foo","bar","norf")
 names(x)<-c("foo","bar","norf")
 names(x)
 x
+x<-list(a=1,b=2,c=3)
 x
+m<-matrix(1:4,nrow=2,ncol=2)
+m
+dimnames(m)=list(c("a","b"),c("c","d"))
+m
+
