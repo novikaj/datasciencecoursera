@@ -52,6 +52,7 @@ m<-matrix(1:4,nrow=2,ncol=2)
 m
 dimnames(m)=list(c("a","b"),c("c","d"))
 m
+<<<<<<< HEAD
 
 x="foo"
 y=data.frame(a=1, b="a")
@@ -66,14 +67,15 @@ x
 
 >>>>>>> dd24569... subsetting basics new
 x=c("a","b", "c","c", "d", "a")
+=======
+x<-c("a","b","c","c","d","a")
+>>>>>>> 211c646... bag
 x[1]
 x[2]
-x[5]
-x[6]
 x[1:4]
 x[x>"a"]
-x[x>"b"]
-x[x>"c"]
-u=x>"a"
+u<-x>"a"
 u
-u
+
+
+
