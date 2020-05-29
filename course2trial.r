@@ -52,7 +52,7 @@ m<-matrix(1:4,nrow=2,ncol=2)
 m
 dimnames(m)=list(c("a","b"),c("c","d"))
 m
-
+print("Hello World")
 x="foo"
 y=data.frame(a=1, b="a")
 dump(c("x","y"),file="data.R")
@@ -70,8 +70,6 @@ x
 x=c("a","b", "c","c", "d", "a")
 x[1]
 x[2]
-x[3]
-x[4]
 x[5]
 x[6]
 x[1:4]
