@@ -59,7 +59,7 @@ dump(c("x","y"),file="data.R")
 rm(x,y)
 source("data.R")
 y
-xx=c("a","b", "c","c", "d", "a")
+x=c("a","b", "c","c", "d", "a")
 x
 x[1]
 x[2]
