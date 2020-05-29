@@ -62,9 +62,12 @@ y
 <<<<<<< HEAD
 =======
 x
+<<<<<<< HEAD
 >>>>>>> 3cb43b4... subsetting basics
+=======
+
+>>>>>>> dd24569... subsetting basics new
 x=c("a","b", "c","c", "d", "a")
-x
 x[1]
 x[2]
 x[3]
