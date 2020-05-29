@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590778972253.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2CFD490A",
+    "lastKnownWriteTime" : 1590782863,
+    "last_content_update" : 1590829732606,
+    "path" : "C:/Users/Alina Novik/Desktop/R studio/datasciencecoursera/course2removebags.R",
+    "project_path" : "course2removebags.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

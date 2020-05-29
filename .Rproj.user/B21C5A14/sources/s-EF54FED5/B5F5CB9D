@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590785329688.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5F5CB9D",
+    "lastKnownWriteTime" : 1590778983,
+    "last_content_update" : 1590778983,
+    "path" : "C:/Users/Alina Novik/Desktop/R studio/datasciencecoursera/course2trial.r",
+    "project_path" : "course2trial.r",
+    "properties" : {
+        "cursorPosition" : "32,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
