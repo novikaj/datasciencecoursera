@@ -53,3 +53,13 @@ m
 dimnames(m)=list(c("a","b"),c("c","d"))
 m
 print("Hello World")
+y<-data.frame(a=1,b="a")
+dput(y)
+y=data(a=1, b="a")
+y=data.frame(a=1, b="a")
+dput(y)
+dput(y, file="y.R")
+new.y=dget("y.R")
+new.y
+
+
