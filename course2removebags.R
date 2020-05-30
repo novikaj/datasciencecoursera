@@ -33,3 +33,4 @@ airquality[1:6,]
 good<-complete.cases(airquality)
 good
 airquality[good,][1:6,]
+airquality

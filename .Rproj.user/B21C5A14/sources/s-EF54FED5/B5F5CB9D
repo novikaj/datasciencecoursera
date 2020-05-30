@@ -5,22 +5,22 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1075961168",
     "id" : "B5F5CB9D",
-    "lastKnownWriteTime" : 1590778983,
-    "last_content_update" : 1590778983,
+    "lastKnownWriteTime" : 1590830954,
+    "last_content_update" : 1590830954357,
     "path" : "C:/Users/Alina Novik/Desktop/R studio/datasciencecoursera/course2trial.r",
     "project_path" : "course2trial.r",
     "properties" : {
-        "cursorPosition" : "32,9",
-        "scrollLine" : "0",
+        "cursorPosition" : "69,0",
+        "scrollLine" : "64",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
     "relative_order" : 2,
-    "source_on_save" : false,
+    "source_on_save" : true,
     "source_window" : "",
     "type" : "r_source"
 }

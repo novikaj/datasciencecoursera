@@ -51,6 +51,13 @@ m<-matrix(1:4,nrow=2,ncol=2)
 m
 dimnames(m)=list(c("a","b"),c("c","d"))
 m
+x="foo"
+y=data.frame(a=1, b="a")
+rm(x,y)
+y
+x
+x=c("a","b", "c","c", "d", "a")
+x<-c("a","b","c","c","d","a")
 print("Hello World")
 x="foo"
 y=data.frame(a=1, b="a")
