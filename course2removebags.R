@@ -15,6 +15,29 @@ x["bar"]
 x<-list(a=list(10,12,14), b=c(3.14,2.81))
 x[[c(1,3)]]
 x[[1]][[3]]
-x[[c(2,1)]]
+
+x<-matrix(1:6,2,3)
+x[1,2]
+x[1,2,drop=FALSE]
+x[1,]
+x[1,,drop=FALSE]
+x[c(2,1)]
+
+x<-c(1,2,NA,4,NA,5)
+bad<-is.na(x)
+x[!bad]
+
+x<-c(1,2,NA,4,NA,5)
+y<-c("a","b",NA,"d",NA,"f")
+good<-complete.cases(x,y)
+good
+x[good]
+y[good]
+
+airquality[1:6,]
+good<-complete.cases(airquality)
+good
+airquality[good,][1:6,]
+
 
 >>>>>>> 86b7737... subsetting double brackets
