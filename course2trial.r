@@ -51,26 +51,13 @@ m<-matrix(1:4,nrow=2,ncol=2)
 m
 dimnames(m)=list(c("a","b"),c("c","d"))
 m
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 x="foo"
 y=data.frame(a=1, b="a")
 rm(x,y)
 y
-<<<<<<< HEAD
-=======
 x
-<<<<<<< HEAD
->>>>>>> 3cb43b4... subsetting basics
-=======
-
->>>>>>> dd24569... subsetting basics new
 x=c("a","b", "c","c", "d", "a")
-=======
 x<-c("a","b","c","c","d","a")
->>>>>>> 211c646... bag
-=======
 print("Hello World")
 x="foo"
 y=data.frame(a=1, b="a")
@@ -80,7 +67,6 @@ source("data.R")
 y
 x=c("a","b", "c","c", "d", "a")
 x
->>>>>>> 2fa2522... new commit
 x[1]
 x[2]
 x[3]
